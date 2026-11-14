@@ -1,0 +1,14 @@
+{
+  "name": "clone-grail-app",
+  "version": "1.0.0",
+  "description": "Grail App static web clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js",
+    "build": "echo \"The assets in grail-app.com/ are already pre-built production bundles from Vite. No compilation step is required.\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
